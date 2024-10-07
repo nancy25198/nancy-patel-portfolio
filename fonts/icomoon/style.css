@@ -28,13 +28,13 @@
 .icon-jquery-logo-svgrepo-com:before {
   content: "\e900";
 }
-.icon-woocommerce-logo-svgrepo-com1:before {
+.icon-woocommerce-logo-svgrepo-com .path1:before {
   content: "\e901";
 
 }
-.icon-woocommerce-logo-svgrepo-com2:before {
+.icon-woocommerce-logo-svgrepo-com .path2:before {
   content: "\e902";
-  
+  color: rgb(255, 255, 255);
 }
 .icon-trello-svgrepo-com:before {
   content: "\e903";
