@@ -567,12 +567,16 @@ a {
   list-style: none;
   margin-bottom: 20px; }
   .site-contact-details li > span {
-    color: #2c3e50;
+    color: #ffffff;
     letter-spacing: .1em;
-    font-size: 12px;
+    font-size: 18px;
     font-weight: 500;
     margin-bottom: 5px;
     display: block; }
+    
+    .text_size {
+      font-size: 16px;
+    }
 
 .site-footer {
   padding: 3em 0; }
@@ -629,6 +633,12 @@ a {
 .letter-spacing {
   letter-spacing: .2rem;
   color: rgba(255, 255, 255, 0.5) !important; }
+
+  .single-portfolio .image {
+    height: 300px;
+    object-fit: cover;
+}
+
 
 
 

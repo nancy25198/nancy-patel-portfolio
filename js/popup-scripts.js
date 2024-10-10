@@ -2,7 +2,7 @@
 const sectionsData = [
   {
     title: "Eco Measure Tech",
-    image: "images/p1.jpg",
+    image: "images/scientist in lab with pipette.webp",
     popupText:
       "Components I contributed to:  Header, Footer, Pages, Forms, Slider, Tab View \n\n" +
       "Tools / Plugins / Themes used: Astra, Elementor, Gutenberg, JetPack, Yoast SEO, Classic Editor, Contact Form 7, Contact Form CFDB7, Elementor Header & Footer Builder,  Font Awesome, etc.",
@@ -10,7 +10,7 @@ const sectionsData = [
   },
   {
     title: "Syndell Tech",
-    image: "images/p2.jpg",
+    image: "images/web_dev_re1.webp",
     popupText:
       "Components I contributed to: Carousel, header, footer, pages, blog page, forms, chat-box, slider \n\n" +
       "Tools / Plugins / Themes used: Astra, Figma, Elementor, NitroPack, chat-box, woo-commerce, wp-form, Yoast SEO, Akismet, Smash Balloon, WP Rocket, Sucuri, Slider Revolution, WP-Optimize, Contact Form 7, UpdraftPlus, Jetpack, google maps, google fonts, etc.",
@@ -18,7 +18,7 @@ const sectionsData = [
   },
   {
     title: "Associated Pediatric Dentistry",
-    image: "images/p3.jpg",
+    image: "images/apd.jpg",
     popupText:
       "Components I contributed to: Carousel, header, footer, pages, blog page, google review,  forms, slider, FAQ \n\n" +
       "Tools / Plugins / Themes used: Astra, Figma, Elementor, Essential Addons for Elementor, Gravity Forms, Yoast SEO, WP Rocket, Sucuri, Slider Revolution, google maps, google fonts, etc.",
@@ -26,7 +26,7 @@ const sectionsData = [
   },
   {
     title: "Lovell Hair Extensions",
-    image: "images/p4.jpg",
+    image: "images/lovell.jpg",
     popupText:
       "Components I contributed to: Carousel, header, footer, pages, forms, slider, filter, FAQ, \n\n" +
       "Tools / Plugins / Themes used: Astra, Figma, Elementor, woo-commerce, Sucuri, Slider Revolution, Contact Form 7, litespeed, google fonts, etc.",
@@ -34,7 +34,7 @@ const sectionsData = [
   },
   {
     title: "God's Outlet",
-    image: "images/p5.jpg",
+    image: "images/shopify.png",
     popupText:
       "Components I contributed to: Carousel, header, footer, pages, forms \n\n" +
       "Tools / Plugins / Themes used: Figma, Shopify, MailChimp,  google maps, google fonts, etc.",
@@ -42,7 +42,7 @@ const sectionsData = [
   },
   {
     title: "The Heritage Bee",
-    image: "images/p6.jpg",
+    image: "images/heritage.png",
     popupText:
       "Components I contributed to: Header, Footer, Forms, Carousel,  Pages  \n\n" +
       "Tools / Plugins / Themes used: Figma, Shopify, MailChimp,  google maps, google fonts, etc.",
@@ -50,7 +50,7 @@ const sectionsData = [
   },
   {
     title: "Mountaineer Brand",
-    image: "images/p1.jpg",
+    image: "images/essential_box.jpg",
     popupText:
       "Components I contributed to: Header, Footer, Carousel, Forms, Pages \n\n" +
       "Tools / Plugins / Themes used: Figma, Shopify, MailChimp,  google maps, google fonts, Smile App, vital, elfsight, etc.",
@@ -58,7 +58,7 @@ const sectionsData = [
   },
   {
     title: "Sneaky Snake Club",
-    image: "images/p2.jpg",
+    image: "images/sneaky_club.webp",
     popupText:
       "Components I contributed to: Header, Footer, Page \n\n" +
       "Tools / Plugins / Themes used: Astra, Figma, Essential Addons for Elementor, Elementor, google fonts, etc.",
