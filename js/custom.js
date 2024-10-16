@@ -331,6 +331,6 @@
     navbarState();
     clickMenu();
     smoothScroll();
-    portfolioMasonry();
+    setTimeout(portfolioMasonry(), 500);
   });
 })();
