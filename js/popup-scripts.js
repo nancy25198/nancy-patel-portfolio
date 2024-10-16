@@ -158,7 +158,30 @@ window.addEventListener("click", (event) => {
   }
 });
 
+function portfolioMasonry() {
+  $(".filters ul li").click(function () {
+    $(".filters ul li").removeClass("active");
+    $(this).addClass("active");
+
+    var data = $(this).attr("data-filter");
+    $grid.isotope({
+      filter: data,
+    });
+  });
+
+  if (document.getElementById("section-portfolio")) {
+    var $grid = $(".grid").isotope({
+      itemSelector: ".all",
+      percentPosition: true,
+      masonry: {
+        columnWidth: ".all",
+      },
+    });
+  }
+}
+
 // Create the sections when the page loads
 window.onload = () => {
   createSections(); // Load all sections initially
+  setTimeout(portfolioMasonry(), 500);
 };
